@@ -1,0 +1,5 @@
+node_modules/
+.env
+memory.db
+memory.db-*
+dist/
